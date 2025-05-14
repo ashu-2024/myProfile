@@ -9,9 +9,9 @@
 
 
 <div align="center">
- 🌱 I’m currently learning *MERN stack & DSA*
+ 🌱 I’m currently learning MERN stack & DSA
 
-💬 Ask me about ** Java, Javascript ,Node.js, React**
+💬 Ask me about Java, Javascript ,Node.js, React
 
  </div>
  
